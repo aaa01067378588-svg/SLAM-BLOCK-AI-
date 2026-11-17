@@ -1,4 +1,4 @@
-
+uses: android-actions/setup-android@v4
 name: Build Android APK
 
 on:
